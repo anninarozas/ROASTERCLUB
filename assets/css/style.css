@@ -50,7 +50,7 @@ a {
 
 a:focus,
 a:hover {
-    color: #6fc754;
+    color: #daee51;
     outline: 0 none;
     text-decoration: none;
 }
@@ -116,7 +116,7 @@ p + p {
 }
 
 .btn-green {
-    background-color: #6fc754;
+    background-color: #53ae99;
     color: #fff;  
 }
 
@@ -1016,7 +1016,8 @@ html, body {
 
 
 .site-section {
-   padding: 40px 0 60px;
+   padding: 100px 
+   
    
 }
 
@@ -1340,6 +1341,7 @@ html, body {
 .sus2 h1{
     color: #fff;
     font-size: 60px;
+
     
 }
 
@@ -1366,6 +1368,48 @@ html, body {
 }
 
 
+/* cliente
+================================================== */
+
+.clientebox{
+    display: inline-block;
+    text-align: left;
+    padding: 20px;
+    margin: 30px;
+    
+    
+}
+
+.cliente{
+    text-align: center;
+    background-color: #f0f0f0;
+    
+
+    
+}
+
+
+
+.clientebox p{
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+
+
+.clientebox2{
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
 /* experiencia
 ================================================== */
 
@@ -1378,7 +1422,7 @@ html, body {
 }
 
 .exp-content { 
-    background: url(../img/amigos.jpg) no-repeat center / cover; 
+    background: url(../img/perro.jpg) no-repeat center / cover; 
     height: 100%;
     width: 100%;
     display: table;
@@ -1407,6 +1451,68 @@ html, body {
 
 
 
+/* detalle
+================================================== */
+
+
+.detallebox{
+    display: inline-block;
+    text-align: left;
+    padding: 20px;
+    margin: 30px;
+    
+    
+}
+
+.detalle{
+    text-align: center;
+    background-color: #f0f0f0;
+    padding-top: 100px;  
+    background-color: #0d0d0d;  
+
+    
+}
+
+
+
+.detallebox p{
+    font-size: 18px;
+    
+   
+    color: #f0f0f0;
+}
+
+.detallebox h3{
+    font-size: 18px;
+    padding-top: 20px;
+    font-weight: 700;
+    color: #f0f0f0;
+}
+
+.plata{
+    font-weight: 800;
+    color: #f0f0f0;
+}
+
+
+.detallebox2{
+    margin-top: 100px;
+}
+
+.titulo{
+    color: #daee51;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1421,7 +1527,7 @@ html, body {
 /* FOOTER
 ================================================== */
 .site-footer {
-    background-color: #f5f5f8;
+    background-color: #0d0d0d;
     padding-top: 95px;
 }
 
@@ -1480,7 +1586,7 @@ html, body {
 
 .list-unstyled li a:hover,
 .list-unstyled li.active a {
-    color: #6fc754;
+    color: #daee51;
 }
 
 /* Copyright */
